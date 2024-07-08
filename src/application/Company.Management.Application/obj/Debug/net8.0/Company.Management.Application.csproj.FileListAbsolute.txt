@@ -1,0 +1,16 @@
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\bin\Debug\net8.0\Company.Management.Application.deps.json
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\bin\Debug\net8.0\Company.Management.Application.dll
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\bin\Debug\net8.0\Company.Management.Application.pdb
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\bin\Debug\net8.0\Company.Management.Domain.dll
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\bin\Debug\net8.0\Company.Management.Domain.pdb
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\obj\Debug\net8.0\Company.Management.Application.csproj.AssemblyReference.cache
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\obj\Debug\net8.0\Company.Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\obj\Debug\net8.0\Company.Management.Application.AssemblyInfoInputs.cache
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\obj\Debug\net8.0\Company.Management.Application.AssemblyInfo.cs
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\obj\Debug\net8.0\Company.Management.Application.csproj.CoreCompileInputs.cache
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\obj\Debug\net8.0\Company.Management.Application.sourcelink.json
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\obj\Debug\net8.0\Company..AEA88F1D.Up2Date
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\obj\Debug\net8.0\Company.Management.Application.dll
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\obj\Debug\net8.0\refint\Company.Management.Application.dll
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\obj\Debug\net8.0\Company.Management.Application.pdb
+C:\Teste\Nova pasta\Company.Management.Api\src\application\Company.Management.Application\obj\Debug\net8.0\ref\Company.Management.Application.dll

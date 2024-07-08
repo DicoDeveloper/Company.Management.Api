@@ -1,0 +1,12 @@
+C:\Teste\Nova pasta\Company.Management.Api\src\domain\Company.Management.Domain\bin\Debug\net8.0\Company.Management.Domain.deps.json
+C:\Teste\Nova pasta\Company.Management.Api\src\domain\Company.Management.Domain\bin\Debug\net8.0\Company.Management.Domain.dll
+C:\Teste\Nova pasta\Company.Management.Api\src\domain\Company.Management.Domain\bin\Debug\net8.0\Company.Management.Domain.pdb
+C:\Teste\Nova pasta\Company.Management.Api\src\domain\Company.Management.Domain\obj\Debug\net8.0\Company.Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste\Nova pasta\Company.Management.Api\src\domain\Company.Management.Domain\obj\Debug\net8.0\Company.Management.Domain.AssemblyInfoInputs.cache
+C:\Teste\Nova pasta\Company.Management.Api\src\domain\Company.Management.Domain\obj\Debug\net8.0\Company.Management.Domain.AssemblyInfo.cs
+C:\Teste\Nova pasta\Company.Management.Api\src\domain\Company.Management.Domain\obj\Debug\net8.0\Company.Management.Domain.csproj.CoreCompileInputs.cache
+C:\Teste\Nova pasta\Company.Management.Api\src\domain\Company.Management.Domain\obj\Debug\net8.0\Company.Management.Domain.sourcelink.json
+C:\Teste\Nova pasta\Company.Management.Api\src\domain\Company.Management.Domain\obj\Debug\net8.0\Company.Management.Domain.dll
+C:\Teste\Nova pasta\Company.Management.Api\src\domain\Company.Management.Domain\obj\Debug\net8.0\refint\Company.Management.Domain.dll
+C:\Teste\Nova pasta\Company.Management.Api\src\domain\Company.Management.Domain\obj\Debug\net8.0\Company.Management.Domain.pdb
+C:\Teste\Nova pasta\Company.Management.Api\src\domain\Company.Management.Domain\obj\Debug\net8.0\ref\Company.Management.Domain.dll
